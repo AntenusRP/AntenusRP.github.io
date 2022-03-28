@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/bg.png);
+}
+h1{
+    background-color:#4e4d4d;
+    text-align: center;
+    color:white ;
+    height: 70px;
+    padding-top: 30px;
+    border-top: 4px solid #017bab ;
+}
+a:visited{
+color: yellow
+}
+a{
+    margin-left: 480px;
+    margin-bottom: 400px;
+    color: white;
+    width: 120px;
+    height: 30px;
+    font-weight: bold;
+    background-color: lightcoral;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 430px;
+}
