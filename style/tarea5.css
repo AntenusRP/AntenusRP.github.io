@@ -1,0 +1,14 @@
+body{
+    background-image: url(../images/fondo_verde.png);
+}
+h1{
+    color: white;
+}
+img{
+    width: 120px;
+    margin-left: 1100px;
+    margin-bottom: 100px;
+}
+#recuadro1{
+    border: 2px solid red;
+}
